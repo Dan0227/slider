@@ -1,0 +1,27 @@
+.botones{
+    width: 100px;
+    height: 100px;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+    margin-left: 500px;
+}
+.derecha{
+    height: 50px;
+    width: 100px;
+}
+.izquierda{
+    height: 50px;
+    width: 100px;
+    margin-left: 500px;
+}
+
+.cont{
+    margin-left: 490px;
+}
+
+body{
+    background-color: #f5f5f5;
+}
